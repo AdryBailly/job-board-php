@@ -7,7 +7,7 @@ MD_DIR = '.'
 
 def extract_field(md, field):
     # Recherche insensible à la casse et aux espaces
-    match = re.search(rf'##\s*{re.escape(field)}\s*\n([\w\s,.-]*)', md, re.IGNORECASE)
+    match = re.search(rf'##\s*{re.escape(field)}\s*\n([^#\n]*)', md, re.IGNORECASE)
     return match.group(1).strip() if match else 'Autre'
 
 with open(README_PATH, encoding='utf-8') as f:
