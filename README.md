@@ -37,7 +37,6 @@ Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact huma
 <!-- START:OFFRES_VILLE_STACK -->
 ## Les offres classées par ville.### Lyon
 **Stack principale : Symfony**
-- [✨LEPERMISLIBRE](✨LEPERMISLIBRE.md)
 - [✨DrDATA](✨DrDATA.md)
 - [✨OPERA_ENERGIE](✨OPERA_ENERGIE.md)
 - [✨GL_EVENTS](✨GL_EVENTS.md)
@@ -45,6 +44,7 @@ Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact huma
 
 ### Paris
 **Stack principale : Symfony**
+- [✨ASSOCONNECT-Senior-Symfony-Developer](✨ASSOCONNECT-Senior-Symfony-Developer.md)
 - [🔥JAPAN_EXPERIENCE](🔥JAPAN_EXPERIENCE.md)
 
 
