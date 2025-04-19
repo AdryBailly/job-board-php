@@ -10,6 +10,14 @@ Intégrez ASSOCONNECT et aidez les associations à réussir dans leur démarche 
 - Rétrospective réguliers, approche Lean
 - On peut rejoindre la Team Planet et passer 5% de son temps sur des sujets d’impacts en interne (diversité, RH, bien-être, inclusion sociale…)
 
+<b>Package</b>
+- BSPCE en option
+- TR 7€
+- Mutuelle Alan
+- Transport pris en charge à 50%
+- 0,5j / mois pour action de bénévolat possible
+
+
 ## Profil recherché
 - Un anglais courant est apprécié.
 - Pragmatique (gestion de la dette technique, gains rapides, automatisation, …).
