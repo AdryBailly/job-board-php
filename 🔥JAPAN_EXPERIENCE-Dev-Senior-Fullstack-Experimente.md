@@ -7,12 +7,12 @@ Vivez l'immersion du Japon avec JAPAN EXPERIENCE !
 Le vrai plus qui sort du lot ? 🤩 La possibilité unique de travailler 1 mois par an... directement depuis le Japon, avec logement et Japan Rail Pass inclus ! 🚄
 
 ## Profil recherché
-•	Solide sur Symfony/PHP, à l'aise avec SOLID.
-•	Expérience e-commerce (forte charge = un gros +).
-•	Sensibilité Produit / Agile.
-•	Bon esprit d'équipe 🫂 et bonne communication.
-•	Français courant, Anglais correct.
-•	Bonus : DDD, DevOps, Typescript.
+•	Solide sur Symfony/PHP, à l'aise avec SOLID.</br>
+•	Expérience e-commerce (forte charge = un gros +).</br>
+•	Sensibilité Produit / Agile.</br>
+•	Bon esprit d'équipe 🫂 et bonne communication.</br>
+•	Français courant, Anglais correct.</br>
+•	Bonus : DDD, DevOps, Typescript.</br>
 
 ## Stack
 •	PHP 7/8, Symfony 5/6 (le cœur ❤️)
