@@ -36,11 +36,11 @@ Full remote = 🏠
 
 ### Lyon
 **Stack principale : **
-- [GL_EVENTS](GL_EVENTS.md)
 - [OPERA_ENERGIE](OPERA_ENERGIE.md)
 
 **Stack principale : Symfony**
 - [LEPERMISLIBRE](LEPERMISLIBRE.md)
+- [GL_EVENTS](GL_EVENTS.md)
 - [DrDATA](DrDATA.md)
 
 
