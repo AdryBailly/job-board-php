@@ -12,6 +12,9 @@ Participez à la transformation digitale de la santé avec DrDATA !
 ## Stack
 
 
+## Stack principale
+
+
 ## Remote
 
 
