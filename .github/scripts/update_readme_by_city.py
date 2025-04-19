@@ -33,7 +33,7 @@ for file in offres:
         stack_principale = extract_field(md, 'Stack principale')
         offres_par_ville_stack[ville][stack_principale].append(file)
 
-section = '\n## Les offres classées par ville.\n\nFull remote = 🏠\n\n Recherche active = 🔥\n\n Recrutement au profil (Opport) = ✨\n\n '
+section = '\n## Les offres classées par ville.'
 for ville in sorted(offres_par_ville_stack):
     section += f'### {ville}\n'
     for stack in sorted(offres_par_ville_stack[ville]):
