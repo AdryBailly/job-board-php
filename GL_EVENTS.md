@@ -13,7 +13,7 @@ Rejoignez GL EVENTS pour organiser des événements d'envergure internationale !
 
 
 ## Stack principale
-
+Symfony
 
 ## Remote
 
