@@ -2,8 +2,13 @@
 Senior Symfony Developer
 
 ## Description du poste
-
 Intégrez ASSOCONNECT et aidez les associations à réussir dans leur démarche positive !
+
+<b>Culture</b>
+- Grosse culture du challenge, têtes bien faites
+- Ambiance bienveillante
+- Rétrospective réguliers, approche Lean
+- On peut rejoindre la Team Planet et passer 5% de son temps sur des sujets d’impacts en interne (diversité, RH, bien-être, inclusion sociale…)
 
 ## Profil recherché
 - Un anglais courant est apprécié.
@@ -14,13 +19,13 @@ Intégrez ASSOCONNECT et aidez les associations à réussir dans leur démarche 
 - Nous apprécions également les personnes dynamiques et curieuses, désireuses d'apprendre.
 
 ## Stack
-
+PHP 8x, Symfony 6x, Doctrine, API Platform, PHPUnit, DDD, SOLID (Bonus React.js)
 
 ## Stack principale
 Symfony
 
 ## Remote
-
+3j de TT / semaine
 
 ## Expérience
 - Minimum 6 ans d'expérience dans l'implémentation de logique métier complexe avec Symfony.
