@@ -6,7 +6,8 @@ README_PATH = 'README.md'
 MD_DIR = '.'
 
 def extract_field(md, field):
-    match = re.search(rf'## {field}\s*\n([\w\s,.-]*)', md)
+    # Recherche insensible à la casse et aux espaces
+    match = re.search(rf'##\s*{re.escape(field)}\s*\n([\w\s,.-]*)', md, re.IGNORECASE)
     return match.group(1).strip() if match else 'Autre'
 
 with open(README_PATH, encoding='utf-8') as f:
