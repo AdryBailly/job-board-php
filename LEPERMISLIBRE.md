@@ -9,6 +9,15 @@ Intégrez LEPERMISLIBRE et participez à la digitalisation de l'apprentissage de
 - Expérience en développement web ou mobile
 - Intérêt pour l'éducation et la formation
 
+## Stack
+
+
+## Remote
+
+
+## Expérience
+
+
 ## Localisation
 
 Lyon
