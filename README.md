@@ -30,6 +30,21 @@ Full remote = 🏠
 - [LEPERMISLIBRE](LEPERMISLIBRE.md)
 - [GL_EVENTS](GL_EVENTS.md)
 - [OPERA_ENERGIE](OPERA_ENERGIE.md)
+
+**Stack principale : Symfony**
+- [DrDATA](DrDATA.md)
+
+
+### Toulouse
+**Stack principale : Symfony**
+- [TOULOISIRS](TOULOISIRS.md)
+
+
+### Lyon
+**Stack principale : **
+- [LEPERMISLIBRE](LEPERMISLIBRE.md)
+- [GL_EVENTS](GL_EVENTS.md)
+- [OPERA_ENERGIE](OPERA_ENERGIE.md)
 - [DrDATA](DrDATA.md)
 
 
