@@ -29,10 +29,13 @@ Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact huma
 À très vite dans ta boîte mail !
 — Adrien
 
+Légende : 
+Full remote = 🏠
+Rerutement actif en cours = 🔥
+Recrutement au profil (Opportunisme) = ✨ 
+
 <!-- START:OFFRES_VILLE_STACK -->
 ## Les offres classées par ville.
-
-Full remote = 🏠
 
 ### Lyon
 **Stack principale : Symfony**
