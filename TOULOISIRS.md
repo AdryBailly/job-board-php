@@ -7,7 +7,7 @@ Rejoignez l'équipe TOULOISIRS pour participer à l'organisation d'activités de
 ## Profil recherché
 
 - Dynamique, créatif(ve) et autonome
-- Expérience dans l'animation ou la gestion de projets de loisirs
+- Expérience dans l'animation ou la gestion de projets de dans le domaine du loisirs
 
 ## Stack
 
