@@ -12,6 +12,9 @@ Rejoignez GL EVENTS pour organiser des événements d'envergure internationale !
 ## Stack
 
 
+## Stack principale
+
+
 ## Remote
 
 
