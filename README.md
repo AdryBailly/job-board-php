@@ -32,7 +32,7 @@ Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact huma
 <b>Légende : </b></br>
 🏠 = Full remote</br>
 🔥 = Rerutement actif en cours</br>
-✨ = Recrutement au profil
+✨ = Recrutement au profil (on connait le CTO ou la DRH et on peut parler de toi)
 
 <!-- START:OFFRES_VILLE_STACK -->
 ## Les offres classées par ville.### Lyon
