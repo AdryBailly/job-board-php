@@ -12,6 +12,9 @@ Rejoignez OPERA ENERGIE pour accompagner la transition énergétique des entrepr
 ## Stack
 
 
+## Stack principale
+
+
 ## Remote
 
 
