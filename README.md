@@ -29,7 +29,7 @@ Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact huma
 À très vite dans ta boîte mail !
 — Adrien
 
-Légende : 
+<b>Légende : </b></br>
 🏠 = Full remote</br>
 🔥 = Rerutement actif en cours</br>
 ✨ = Recrutement au profil
