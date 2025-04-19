@@ -1,4 +1,4 @@
-# GL EVENTS
+# LE FIGARO
 
 ## Description du poste
 Le Figaro est l’un des plus importants acteurs français de la presse. Présents dans le top 3 des sites de médias français les plus visités. Les équipes techniques du Figaro sont en charge de plusieurs projets ambitieux avec de forts enjeux de business, d’engagement utilisateur et de performance.
