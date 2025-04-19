@@ -38,7 +38,7 @@ PHP, Symfony, MySQL, ElasticSearch, RabbitMQ, GraphQL, Git, GitHub, Linux
 Symfony
 
 ## Remote
-
+Hybride remote sur Lyon (il faut habiter sur Lyon)
 
 ## Expérience
 5 à 10 ans d'exp. en Symfony (après étude)
