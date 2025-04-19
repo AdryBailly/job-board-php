@@ -22,13 +22,14 @@ Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact huma
 — Adrien
 
 ## Les offres classées par ville.
+Full remote = 🏠
 
-### Lyon
+## Lyon
 - [DrDATA](DrDATA.md)
 - [GL_EVENTS](GL_EVENTS.md)
 - [LEPERMISLIBRE](LEPERMISLIBRE.md)
 - [OPERA_ENERGIE](OPERA_ENERGIE.md)
 
-### Toulouse
+## Toulouse
 - [TOULOISIRS](TOULOISIRS.md)
 
