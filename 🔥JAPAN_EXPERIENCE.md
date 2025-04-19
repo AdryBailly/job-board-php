@@ -21,8 +21,8 @@ Symfony
 
 ## Remote
 2 options :
-•	Hybride (2-3j/sem)  🏠
-•	ou Full Remote (2-3j/mois au bureau)🌍.
+•	Hybride (2-3j/sem) 🏠
+•	ou Full Remote (2-3j/mois au bureau)🌍
 
 ## Expérience
 
