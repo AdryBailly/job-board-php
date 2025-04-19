@@ -19,9 +19,11 @@ jobs:
         run: |
           python .github/scripts/update_readme_by_city.py
       - name: Commit and push if changed
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add README.md
           git diff --cached --quiet || git commit -m 'Auto-update README.md (by city and stack)'
-          git push
+          git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
