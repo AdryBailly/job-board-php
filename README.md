@@ -14,7 +14,7 @@ Tu ne vois rien qui te branche là tout de suite ? Écris-moi quand même, j’a
 💬 Deux trucs importants à savoir :
 Le salaire ? Difficile de donner des fourchettes réalistes à l’avance. L’idée, c’est que je défends ta valeur dans chaque process. Humain & compétences d’abord.
 
-Mon code de conduite est clair, et je m’y engage sur chaque mission. Transparence, respect des devs, et pas de forcing inutile. Tu peux le consulter juste ici [📜 lien/code de conduite].
+Mon code de conduite est clair, et je m’y engage sur chaque mission. Transparence, respect des devs, et pas de forcing inutile.
 
 Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact humain qui comprend les enjeux du dev en 2025 — je suis là.
 
@@ -23,8 +23,12 @@ Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact huma
 
 ## Les offres classées par ville.
 
+### Lyon
 - [DrDATA](DrDATA.md)
 - [GL_EVENTS](GL_EVENTS.md)
 - [LEPERMISLIBRE](LEPERMISLIBRE.md)
 - [OPERA_ENERGIE](OPERA_ENERGIE.md)
+
+### Toulouse
 - [TOULOISIRS](TOULOISIRS.md)
+
