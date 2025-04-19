@@ -43,6 +43,11 @@ Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact huma
 - [✨GL_EVENTS](✨GL_EVENTS.md)
 
 
+### Paris
+**Stack principale : Symfony**
+- [🔥JAPAN_EXPERIENCE](🔥JAPAN_EXPERIENCE.md)
+
+
 ### Toulouse
 **Stack principale : Symfony**
 - [✨TOULOISIRS](✨TOULOISIRS.md)
