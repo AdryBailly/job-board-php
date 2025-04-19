@@ -22,7 +22,21 @@ Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact huma
 — Adrien
 
 ## Les offres classées par ville.
+
 Full remote = 🏠
+
+### Lyon
+**Stack principale : **
+- [LEPERMISLIBRE](LEPERMISLIBRE.md)
+- [GL_EVENTS](GL_EVENTS.md)
+- [OPERA_ENERGIE](OPERA_ENERGIE.md)
+- [DrDATA](DrDATA.md)
+
+
+### Toulouse
+**Stack principale : Symfony**
+- [TOULOISIRS](TOULOISIRS.md)
+
 
 ## Lyon
 - [DrDATA](DrDATA.md)
