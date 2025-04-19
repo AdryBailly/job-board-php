@@ -6,6 +6,7 @@ Senior Symfony Developer
 Intégrez ASSOCONNECT et aidez les associations à réussir dans leur démarche positive !
 
 ## Profil recherché
+- Un anglais courant est apprécié.
 - Pragmatique (gestion de la dette technique, gains rapides, automatisation, …).
 - Esprit d'équipe, partageant les connaissances et les meilleures pratiques pour favoriser la progression de ses collègues.
 - Ouverture à l'idée de diriger une équipe à l'avenir.
