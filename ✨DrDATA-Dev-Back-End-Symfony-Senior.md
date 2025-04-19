@@ -1,6 +1,13 @@
 # DrDATA
 Dev Back-End Symfony Senior
 
+- Société fondée en 2001.
+- Présence dans plusieurs grandes villes en France (Belfort, Lille, Nancy, Lyon, Paris, Strasbourg, etc) et à l’international (Dubaï, Shanghai).
+- Plus de 95 collaborateurs passionnés, experts en technologies digitales.
+- Une clientèle prestigieuse, nationale et internationale.
+- Réalisation de projets uniques et sur-mesure combinant créativité et performance (e-commerce, innovation digitale, UX design, développement back-end).
+- Des secteurs d’intervention variés, couvrant la mode, le retail, la santé, et bien d'autres.
+
 ## Description du poste
 Participez à la transformation digitale de la santé avec DrDATA !
 
