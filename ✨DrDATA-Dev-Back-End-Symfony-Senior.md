@@ -2,7 +2,6 @@
 Dev Back-End Symfony Senior
 
 ## Description du poste
-
 Participez à la transformation digitale de la santé avec DrDATA !
 
 - Présence dans plusieurs grandes villes en France (Belfort, Lille, Nancy, Lyon, Paris, Strasbourg, etc) et à l’international (Dubaï, Shanghai).
@@ -11,8 +10,15 @@ Participez à la transformation digitale de la santé avec DrDATA !
 - Réalisation de projets uniques et sur-mesure combinant créativité et performance (e-commerce, innovation digitale, UX design, développement back-end).
 - Des secteurs d’intervention variés, couvrant la mode, le retail, la santé, et bien d'autres.
 
-## Profil recherché
+<b>Avantages</b>
+- Une semaine de congés supplémentaire.
+- Une mutuelle santé entièrement prise en charge.
+- Le remboursement total des frais de transport.
+- Des chèques cadeaux et vacances.
+- L’accès à des formations illimitées via LinkedIn Learning.
+- Des boissons chaudes à disposition, pour des pauses conviviales.
 
+## Profil recherché
 - Expérience en développement web ou data
 - Sensibilité au secteur médical
 - Une aptitude à résoudre des problèmes complexes, individuellement et en collaboration avec les équipes.
