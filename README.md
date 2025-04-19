@@ -44,7 +44,7 @@ Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact huma
 
 ### Paris
 **Stack principale : Symfony**
-- [🔥JAPAN_EXPERIENCE-Dev-Senior-Fullstack-Experimente](🔥JAPAN_EXPERIENCE-Dev-Senior-Fullstack-Experimente.md)
+- [🔥JAPAN_EXPERIENCE-Dev-Fullstack-Experimente](🔥JAPAN_EXPERIENCE-Dev-Fullstack-Experimente.md)
 - [✨ASSOCONNECT-Dev-Senior-Symfony-Fullstack](✨ASSOCONNECT-Dev-Senior-Symfony-Fullstack.md)
 
 
