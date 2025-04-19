@@ -36,11 +36,11 @@ Full remote = 🏠
 
 ### Lyon
 **Stack principale : **
-- [LEPERMISLIBRE](LEPERMISLIBRE.md)
 - [GL_EVENTS](GL_EVENTS.md)
 - [OPERA_ENERGIE](OPERA_ENERGIE.md)
 
 **Stack principale : Symfony**
+- [LEPERMISLIBRE](LEPERMISLIBRE.md)
 - [DrDATA](DrDATA.md)
 
 
@@ -49,3 +49,4 @@ Full remote = 🏠
 - [TOULOISIRS](TOULOISIRS.md)
 
 
+<!-- END:OFFRES_VILLE_STACK -->
