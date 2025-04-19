@@ -15,9 +15,11 @@ Participez à la transformation digitale de la santé avec DrDATA !
 
 - Expérience en développement web ou data
 - Sensibilité au secteur médical
+- Une aptitude à résoudre des problèmes complexes, individuellement et en collaboration avec les équipes.
+- Un esprit curieux, méthodique et tourné vers l’innovation.
 
 ## Stack
-
+PHP, Symfony, MySQL, ElasticSearch, RabbitMQ, GraphQL, Git, GitHub, Linux
 
 ## Stack principale
 Symfony
@@ -26,12 +28,10 @@ Symfony
 
 
 ## Expérience
-3 à 5 ans d'exp. en Symfony (après étude)
+5 à 10 ans d'exp. en Symfony (après étude)
 
 ## Localisation
-
 Lyon
 
 ## Comment postuler ?
-
 Tout simplement, envoyez-moi un email à adrien@mobiskill.fr avec un CV ou bien un profil LinkedIn à jour. À bientôt !
