@@ -33,8 +33,6 @@ Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact huma
 ## Les offres classées par ville.
 
 Full remote = 🏠
-Recherche active = 🔥
-Recrutement au profil = ✨
 
 ### Lyon
 **Stack principale : Symfony**
