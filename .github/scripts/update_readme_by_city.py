@@ -4,21 +4,25 @@ from collections import defaultdict
 
 README_PATH = 'README.md'
 MD_DIR = '.'
+START_MARK = '<!-- START:OFFRES_VILLE_STACK -->'
+END_MARK = '<!-- END:OFFRES_VILLE_STACK -->'
 
 def extract_field(md, field):
-    # Recherche insensible à la casse et aux espaces
     match = re.search(rf'##\s*{re.escape(field)}\s*\n([^#\n]*)', md, re.IGNORECASE)
     return match.group(1).strip() if match else 'Autre'
 
 with open(README_PATH, encoding='utf-8') as f:
     content = f.read()
 
-start = content.find('## Les offres classées par ville.')
-if start == -1:
-    start = len(content)
-end = content.find('##', start+1)
-if end == -1:
-    end = len(content)
+start = content.find(START_MARK)
+end = content.find(END_MARK)
+if start == -1 or end == -1:
+    # Ajoute les marqueurs si absents
+    content += f'\n{START_MARK}\n{END_MARK}\n'
+    start = content.find(START_MARK)
+    end = content.find(END_MARK)
+
+start += len(START_MARK)
 
 offres = [f for f in os.listdir(MD_DIR) if f.endswith('.md') and f != 'README.md']
 offres_par_ville_stack = defaultdict(lambda: defaultdict(list))
@@ -29,7 +33,7 @@ for file in offres:
         stack_principale = extract_field(md, 'Stack principale')
         offres_par_ville_stack[ville][stack_principale].append(file)
 
-section = '## Les offres classées par ville.\n\nFull remote = 🏠\n\n'
+section = '\n## Les offres classées par ville.\n\nFull remote = 🏠\n\n'
 for ville in sorted(offres_par_ville_stack):
     section += f'### {ville}\n'
     for stack in sorted(offres_par_ville_stack[ville]):
