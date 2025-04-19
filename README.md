@@ -45,7 +45,7 @@ Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact huma
 
 ### Toulouse
 **Stack principale : Symfony**
-- [TOULOISIRS](TOULOISIRS.md)
+- [✨TOULOISIRS](✨TOULOISIRS.md)
 
 
 <!-- END:OFFRES_VILLE_STACK -->
