@@ -1,0 +1,27 @@
+name: Update README by city and stack
+on:
+  push:
+    paths:
+      - '*.md'
+      - 'README.md'
+      - '.github/workflows/update-readme.yml'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Run update script
+        run: |
+          python .github/scripts/update_readme_by_city.py
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git diff --cached --quiet || git commit -m 'Auto-update README.md (by city and stack)'
+          git push
