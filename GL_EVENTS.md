@@ -9,6 +9,15 @@ Rejoignez GL EVENTS pour organiser des événements d'envergure internationale !
 - Expérience en gestion d'événements
 - Sens du relationnel et organisation
 
+## Stack
+
+
+## Remote
+
+
+## Expérience
+
+
 ## Localisation
 
 Lyon
