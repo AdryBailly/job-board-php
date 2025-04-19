@@ -39,7 +39,7 @@ Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact huma
 **Stack principale : Symfony**
 - [✨LEPERMISLIBRE](✨LEPERMISLIBRE.md)
 - [✨DrDATA](✨DrDATA.md)
-- [OPERA_ENERGIE](OPERA_ENERGIE.md)
+- [✨OPERA_ENERGIE](✨OPERA_ENERGIE.md)
 - [✨GL_EVENTS](✨GL_EVENTS.md)
 
 
