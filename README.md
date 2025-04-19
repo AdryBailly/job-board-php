@@ -37,10 +37,10 @@ Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact huma
 <!-- START:OFFRES_VILLE_STACK -->
 ## Les offres classées par ville.### Lyon
 **Stack principale : Symfony**
-- [LEPERMISLIBRE](LEPERMISLIBRE.md)
-- [GL_EVENTS](GL_EVENTS.md)
+- [✨LEPERMISLIBRE](✨LEPERMISLIBRE.md)
 - [✨DrDATA](✨DrDATA.md)
 - [OPERA_ENERGIE](OPERA_ENERGIE.md)
+- [✨GL_EVENTS](✨GL_EVENTS.md)
 
 
 ### Toulouse
