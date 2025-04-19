@@ -35,9 +35,7 @@ Légende :
 ✨ = Recrutement au profil
 
 <!-- START:OFFRES_VILLE_STACK -->
-## Les offres classées par ville.
-
-### Lyon
+## Les offres classées par ville.### Lyon
 **Stack principale : Symfony**
 - [LEPERMISLIBRE](LEPERMISLIBRE.md)
 - [GL_EVENTS](GL_EVENTS.md)
