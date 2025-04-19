@@ -13,7 +13,7 @@ Rejoignez OPERA ENERGIE pour accompagner la transition énergétique des entrepr
 
 
 ## Stack principale
-
+Symfony
 
 ## Remote
 
