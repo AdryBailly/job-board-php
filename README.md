@@ -14,9 +14,7 @@ Tu ne vois rien qui te branche là tout de suite ? Écris-moi quand même, j’a
 💬 Deux trucs importants à savoir :
 Le salaire ? Difficile de donner des fourchettes réalistes à l’avance. L’idée, c’est que je défends ta valeur dans chaque process. Humain & compétences d’abord.
 
-Mon code de conduite est clair, et je m’y engage sur chaque mission. Transparence, respect des devs, et pas de forcing inutile. Tu peux le consulter juste ici [📜 lien/code de conduite].
+Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact humain qui comprend les enjeux du dev —> je suis là.
 
-Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact humain qui comprend les enjeux du dev en 2025 — je suis là.
-
-À très vite dans ta boîte mail !
+À très vite dans ta boîte mail pusi par tel !
 — Adrien
