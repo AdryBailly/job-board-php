@@ -13,7 +13,7 @@ Rejoignez l'équipe TOULOISIRS pour participer à l'organisation d'activités de
 
 
 ## Stack principale
-
+Symfony
 
 ## Remote
 
