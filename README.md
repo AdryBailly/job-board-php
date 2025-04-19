@@ -34,4 +34,18 @@ Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact huma
 
 Full remote = 🏠
 
-<!-- END:OFFRES_VILLE_STACK -->
+### Lyon
+**Stack principale : **
+- [LEPERMISLIBRE](LEPERMISLIBRE.md)
+- [GL_EVENTS](GL_EVENTS.md)
+- [OPERA_ENERGIE](OPERA_ENERGIE.md)
+
+**Stack principale : Symfony**
+- [DrDATA](DrDATA.md)
+
+
+### Toulouse
+**Stack principale : Symfony**
+- [TOULOISIRS](TOULOISIRS.md)
+
+
