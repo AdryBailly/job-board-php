@@ -9,6 +9,15 @@ Rejoignez OPERA ENERGIE pour accompagner la transition énergétique des entrepr
 - Expérience en conseil ou gestion de projet énergie
 - Sensibilité aux enjeux environnementaux
 
+## Stack
+
+
+## Remote
+
+
+## Expérience
+
+
 ## Localisation
 
 Lyon
