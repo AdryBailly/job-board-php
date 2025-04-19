@@ -37,6 +37,8 @@ Recrutement au profil (Opportunisme) = ✨
 <!-- START:OFFRES_VILLE_STACK -->
 ## Les offres classées par ville.
 
+Full remote = 🏠
+
 ### Lyon
 **Stack principale : Symfony**
 - [LEPERMISLIBRE](LEPERMISLIBRE.md)
