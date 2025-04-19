@@ -15,17 +15,17 @@ Le vrai plus qui sort du lot ? 🤩 La possibilité unique de travailler 1 mois 
 •	Bonus : DDD, DevOps, Typescript.</br>
 
 ## Stack
-•	PHP 7/8, Symfony 5/6 (le cœur ❤️)
-•	React/Next.js (Typescript)
-•	PostgreSQL/MySQL, API Platform, Docker, Gitlab CI/CD, GCP, Kubernetes...
+•	PHP 7/8, Symfony 5/6 (le cœur ❤️)</br>
+•	React/Next.js (Typescript)</br>
+•	PostgreSQL/MySQL, API Platform, Docker, Gitlab CI/CD, GCP, Kubernetes...</br>
 
 ## Stack principale
 Symfony
 
 ## Remote
-2 options :
-•	Hybride (2-3j/sem) 🏠
-•	ou Full Remote (2-3j/mois au bureau)🌍
+2 options :</br>
+•	Hybride (2-3j/sem) 🏠</br>
+•	ou Full Remote (2-3j/mois au bureau)🌍</br>
 
 ## Expérience
 
