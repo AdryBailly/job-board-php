@@ -1,7 +1,10 @@
 # JAPAN EXPERIENCE
+Dev Symfony Fullstack experimenté
 
 ## Description du poste
 Vivez l'immersion du Japon avec JAPAN EXPERIENCE !
+
+Le vrai plus qui sort du lot ? 🤩 La possibilité unique de travailler 1 mois par an... directement depuis le Japon, avec logement et Japan Rail Pass inclus ! 🚄
 
 ## Profil recherché
 •	Solide sur Symfony/PHP, à l'aise avec SOLID.
