@@ -14,12 +14,12 @@ L’équipe Agora est alignée avec le pilier Business pour la gestion des abonn
 - La personnalité du candidat peut faire la différence, des personnes calme et posée, humble, idéalement
 
 <b> Avantages </b>
-•	SYNTEC – Forfait jour 
-•	9j de RTT
-•	25 jours de CP
-•	Prime d’intéressement
-•	Mutuelle / Prévoyance (Audience, très bonne mutuelle)
-•	CE au bout de 6 mois d’ancienneté (Agence de voyage en interne sexy avec des propriétés un peu partout en france/ Billetterie / Réductions)
+•	SYNTEC – Forfait jour</br>
+•	9j de RTT</br>
+•	25 jours de CP</br>
+•	Prime d’intéressement</br>
+•	Mutuelle / Prévoyance (Audience, très bonne mutuelle)</br>
+•	CE au bout de 6 mois d’ancienneté (Agence de voyage en interne sexy avec des propriétés un peu partout en france/ Billetterie / Réductions)</br>
 •	2 salles de sports dans les locaux (équipement boxe, cours de yoga, pilates, avec cours de musculation)
 
 ## Profil recherché
@@ -41,7 +41,7 @@ Symfony
 *Possibilité de Full remote sur certaines Squads
 
 ## Expérience
-+ de 4 ans d'expérience pro. (après études)
+Minimum 5 ans d'expérience pro. (après études)
 
 ## Localisation
 Paris
