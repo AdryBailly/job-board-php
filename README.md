@@ -39,11 +39,11 @@ Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact huma
 **Stack principale : Symfony**
 - [✨DrDATA-Dev-Back-End-Symfony-Senior](✨DrDATA-Dev-Back-End-Symfony-Senior.md)
 - [✨OPERA_ENERGIE](✨OPERA_ENERGIE.md)
-- [✨GL_EVENTS](✨GL_EVENTS.md)
 
 
 ### Paris
 **Stack principale : Symfony**
+- [✨LE_FIGARO_Dev-Backend-Experimenté](✨LE_FIGARO_Dev-Backend-Experimenté.md)
 - [🔥JAPAN_EXPERIENCE-Dev-Fullstack-Experimente](🔥JAPAN_EXPERIENCE-Dev-Fullstack-Experimente.md)
 - [✨ASSOCONNECT-Dev-Senior-Symfony-Fullstack](✨ASSOCONNECT-Dev-Senior-Symfony-Fullstack.md)
 
