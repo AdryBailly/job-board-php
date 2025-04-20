@@ -46,5 +46,5 @@ Paris
 ## Comment postuler ?
 Si :  Si tu es déjà un-e candidat-e envoie moi un SMS/WhatsApp :)
 
-Sinon >> Je t'invite à remplir ce formulaire et je m'occupe de répondre ASAP !
-➡️ **[POSTULEZ ICI]([https://example.com)](https://form.jotform.com/251094648903361)**
+Sinon >> Je t'invite à remplir ce formulaire et je m'occupe de répondre ASAP !</br>
+➡️ <a href="https://form.jotform.com/251094648903361" target="_blank">POSTULEZ ICI</a>
