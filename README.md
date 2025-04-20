@@ -3,8 +3,7 @@ Tu cherches une nouvelle aventure ? Voici une sélection aux petits oignons d’
 Spoiler : les noms des boîtes sont affichés en toute transparence — pas de secrets, pas de bullshit.
 
 
-📬 Pour postuler ou juste échanger : adrien@mobiskill.fr.
-Tu ne vois rien qui te branche là tout de suite ? Écris-moi quand même, j’ai peut-être la pépite hors catalogue qu’il te faut.
+➡️ <b><a href="https://form.jotform.com/251094648903361" target="_blank">POSTULER ICI</a></b>
 
 
 Mon code de conduite est clair, et je m’y engage sur chaque mission. Transparence, respect des devs, et pas de forcing inutile.
