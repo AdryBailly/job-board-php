@@ -28,9 +28,9 @@ Mon code de conduite est clair, et je m’y engage sur chaque mission. Transpare
 
 ### Paris
 **Stack principale : Symfony**
+- [✨UPPLY_Lead-Dev-Backend-Symfony-GO](✨UPPLY_Lead-Dev-Backend-Symfony-GO.md)
 - [🔥JAPAN_EXPERIENCE-Dev-Fullstack-Experimente](🔥JAPAN_EXPERIENCE-Dev-Fullstack-Experimente.md)
 - [🔥LE_FIGARO_Dev-Backend-Experimenté](🔥LE_FIGARO_Dev-Backend-Experimenté.md)
-- [✨UPPLY-Lead-Dev-Backend-Symfony-GO](✨UPPLY-Lead-Dev-Backend-Symfony-GO.md)
 - [✨ASSOCONNECT-Dev-Senior-Symfony-Fullstack](✨ASSOCONNECT-Dev-Senior-Symfony-Fullstack.md)
 
 
