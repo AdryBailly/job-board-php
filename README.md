@@ -7,6 +7,8 @@ Mon code de conduite est clair, et je m’y engage sur chaque mission. Transpare
 À très vite dans ta boîte mail !
 — Adrien
 
+Si tu es déjà un-e candidat-e envoie moi un SMS/WhatsApp :)
+Sinon >> Je t'invite à remplir ce formulaire et je m'occupe de répondre ASAP !</br>
 ➡️ <b><a href="https://form.jotform.com/251094648903361" target="_blank">POSTULER ICI</a></b>
 
 <!-- START:OFFRES_VILLE_STACK -->
