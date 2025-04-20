@@ -18,7 +18,7 @@ Le vrai plus qui sort du lot ? 🤩 La possibilité unique de travailler 1 mois 
 •	Sensibilité Produit / Agile.</br>
 •	Bon esprit d'équipe 🫂 et bonne communication.</br>
 •	Français courant, Anglais correct.</br>
-•	Bonus : DDD, DevOps, Typescript.</br>
+•	Bonus : DDD, DevOps, Typescript</br>
 
 ## Stack
 •	PHP 7/8, Symfony 5/6 (le cœur ❤️)</br>
