@@ -2,15 +2,12 @@
 Tu cherches une nouvelle aventure ? Voici une sélection aux petits oignons d’opportunités PHP en cours, triées à la main pour toi.
 Spoiler : les noms des boîtes sont affichés en toute transparence — pas de secrets, pas de bullshit.
 
-
-➡️ <b><a href="https://form.jotform.com/251094648903361" target="_blank">POSTULER ICI</a></b>
-
-
 Mon code de conduite est clair, et je m’y engage sur chaque mission. Transparence, respect des devs, et pas de forcing inutile.
  Bref, si tu veux gagner du temps, éviter les galères, et avoir un contact humain qui comprend les enjeux du dev en 2025 — je suis là.
 À très vite dans ta boîte mail !
 — Adrien
 
+➡️ <b><a href="https://form.jotform.com/251094648903361" target="_blank">POSTULER ICI</a></b>
 
 <!-- START:OFFRES_VILLE_STACK -->
 ## Les offres classées par ville. (Mise à jour automatique via scripts & workflow)
