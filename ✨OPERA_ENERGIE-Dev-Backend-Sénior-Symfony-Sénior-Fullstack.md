@@ -32,7 +32,7 @@ Local à vélos sécurisé
 PHP, Symfony, DDD, Docker, Kubernetes, Gitlab, MySQL
 
 ## Stack principale
-Lyon
+Symfony
 
 ## Remote
 1 à 2 jours de télétravail/semaine une fois autonome sur le poste
@@ -41,7 +41,7 @@ Lyon
 Au moins 8 ans d'exp. en Dev Back PHP (dont 1 an min sur Symfony >5x) (Après études)
 
 ## Localisation
-Paris
+Lyon
 
 ## Comment postuler ?
 
