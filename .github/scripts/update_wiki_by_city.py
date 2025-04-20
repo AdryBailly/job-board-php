@@ -2,8 +2,10 @@ import os
 import re
 from collections import defaultdict
 
-WIKI_PATH = '../../wiki/Par-Ville.md'  # Chemin relatif depuis le workflow
-MD_DIR = '../../'
+README_PATH = 'README.md'
+MD_DIR = '.'
+START_MARK = '<!-- START:OFFRES_VILLE_STACK -->'
+END_MARK = '<!-- END:OFFRES_VILLE_STACK -->'
 
 def extract_field(md, field):
     match = re.search(rf'##\s*{re.escape(field)}\s*\n([^#\n]*)', md, re.IGNORECASE)
