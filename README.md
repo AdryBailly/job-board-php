@@ -36,8 +36,8 @@ Mon code de conduite est clair, et je m’y engage sur chaque mission. Transpare
 
 
 ### Toulouse
-**Stack principale : Symfony**
-- [✨TOULOISIRS](✨TOULOISIRS.md)
+**Stack principale : Laravel ou Symfony**
+- [✨ORNIKAR_Dev_Senior_Backend_Laravel](✨ORNIKAR_Dev_Senior_Backend_Laravel.md)
 
 
 <!-- END:OFFRES_VILLE_STACK -->
