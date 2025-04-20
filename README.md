@@ -21,8 +21,10 @@ Mon code de conduite est clair, et je m’y engage sur chaque mission. Transpare
 ✨ = Recrutement au profil (Nous avons un contrat)
 
 ### Lyon
-**Stack principale : Symfony**
+**Stack principale : Paris**
 - [✨OPERA_ENERGIE-Dev-Backend-Sénior-Symfony-Sénior-Fullstack](✨OPERA_ENERGIE-Dev-Backend-Sénior-Symfony-Sénior-Fullstack.md)
+
+**Stack principale : Symfony**
 - [✨DrDATA-Dev-Back-End-Symfony-Senior](✨DrDATA-Dev-Back-End-Symfony-Senior.md)
 
 
