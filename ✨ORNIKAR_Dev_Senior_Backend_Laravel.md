@@ -38,7 +38,7 @@ Laravel ou Symfony
 Au moins 5 ans d’expérience en développement backend, sur des API PHP à fort trafic
 
 ## Localisation
-Toulouse
+Paris
 
 ## Comment postuler ?
 
