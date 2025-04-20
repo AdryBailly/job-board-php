@@ -4,8 +4,10 @@ Dev Symfony Fullstack experimenté
 ## Description du poste
 Vivez l'immersion du Japon avec JAPAN EXPERIENCE !
 
+Majoritairement Backend (~90%) / Frontend (~10%) et ils aimeraint que ça passe progressivement vers Backend (~70%) / Frontend (~30%).
+
 ## Salaire (estimatif)
-50 à 55k€
+50 à 55k€ + Bonus sur OKR (jusqu'à 8%)
 
 ## Avantages
 Le vrai plus qui sort du lot ? 🤩 La possibilité unique de travailler 1 mois par an... directement depuis le Japon, avec logement et Japan Rail Pass inclus ! 🚄
@@ -32,7 +34,7 @@ Symfony
 •	ou Full Remote (2-3j/mois au bureau)🌍</br>
 
 ## Expérience
-
+Minimum 5 ans d'exp. pro (après étude)
 
 ## Localisation
 Paris
