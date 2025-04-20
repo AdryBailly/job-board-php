@@ -14,5 +14,30 @@ Mon code de conduite est clair, et je m’y engage sur chaque mission. Transpare
 
 
 <!-- START:OFFRES_VILLE_STACK -->
-## Les offres classées par ville.
+## Les offres classées par ville. (Mise à jour automatique via scripts & workflow)
+
+Full remote = 🏠
+Rerutement actif en cours = 🔥
+Recrutement au profil (Opportunisme) = ✨
+
+### Lyon
+**Stack principale : Symfony**
+- [✨DrDATA-Dev-Back-End-Symfony-Senior](✨DrDATA-Dev-Back-End-Symfony-Senior.md)
+
+
+
+### Paris
+**Stack principale : Symfony**
+- [✨OPERA_ENERGIE-Dev-Backend-Sénior-Symfony-Sénior-Fullstack](✨OPERA_ENERGIE-Dev-Backend-Sénior-Symfony-Sénior-Fullstack.md)
+- [🔥JAPAN_EXPERIENCE-Dev-Fullstack-Experimente](🔥JAPAN_EXPERIENCE-Dev-Fullstack-Experimente.md)
+- [🔥LE_FIGARO_Dev-Backend-Experimenté](🔥LE_FIGARO_Dev-Backend-Experimenté.md)
+- [✨ASSOCONNECT-Dev-Senior-Symfony-Fullstack](✨ASSOCONNECT-Dev-Senior-Symfony-Fullstack.md)
+
+
+
+### Toulouse
+**Stack principale : Symfony**
+- [✨TOULOISIRS](✨TOULOISIRS.md)
+
+
 <!-- END:OFFRES_VILLE_STACK -->
