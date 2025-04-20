@@ -29,7 +29,7 @@ Sinon >> Je t'invite à remplir ce formulaire et je m'occupe de répondre ASAP !
 - [✨ORNIKAR_Dev_Senior_Backend_Laravel](✨ORNIKAR_Dev_Senior_Backend_Laravel.md)
 
 **Stack principale : Symfony**
-- [✨UPPLY_Lead-Dev-Backend-Symfony-GO](✨UPPLY_Lead-Dev-Backend-Symfony-GO.md)
+- [🏠✨UPPLY_Lead-Dev-Backend-Symfony-GO](🏠✨UPPLY_Lead-Dev-Backend-Symfony-GO.md)
 - [🔥JAPAN_EXPERIENCE-Dev-Fullstack-Experimente](🔥JAPAN_EXPERIENCE-Dev-Fullstack-Experimente.md)
 - [🔥LE_FIGARO_Dev-Backend-Experimenté](🔥LE_FIGARO_Dev-Backend-Experimenté.md)
 - [✨ASSOCONNECT-Dev-Senior-Symfony-Fullstack](✨ASSOCONNECT-Dev-Senior-Symfony-Fullstack.md)
