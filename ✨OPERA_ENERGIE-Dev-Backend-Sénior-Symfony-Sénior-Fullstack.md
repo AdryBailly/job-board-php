@@ -32,7 +32,7 @@ Local à vélos sécurisé
 PHP, Symfony, DDD, Docker, Kubernetes, Gitlab, MySQL
 
 ## Stack principale
-Symfony
+Lyon
 
 ## Remote
 1 à 2 jours de télétravail/semaine une fois autonome sur le poste
