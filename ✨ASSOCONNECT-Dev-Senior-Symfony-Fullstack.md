@@ -4,13 +4,13 @@ Senior Symfony Developer
 ## Description du poste
 Intégrez ASSOCONNECT et aidez les associations à réussir dans leur démarche positive !
 
-<b>Culture</b>
+### Culture
 - Grosse culture du challenge, têtes bien faites
 - Ambiance bienveillante
 - Rétrospective réguliers, approche Lean
 - On peut rejoindre la Team Planet et passer 5% de son temps sur des sujets d’impacts en interne (diversité, RH, bien-être, inclusion sociale…)
 
-<b>Package</b>
+### Package
 - BSPCE en option
 - TR 7€
 - Mutuelle Alan
