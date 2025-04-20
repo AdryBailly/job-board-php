@@ -46,4 +46,19 @@ Paris
 ## Comment postuler ?
 (*) Si tu es déjà un-e candidat-e envoie moi un SMS/WhatsApp :)
 ELSE >> Je t'invite à remplir ce formulaire et je m'occupe de répondre ASAP
-<script type="text/javascript" src="https://form.jotform.com/jsform/251094648903361"></script>
+
+    <iframe
+      id="JotFormIFrame-251094648903361"
+      title="FORMULAIRE JOB BOARD PHP"
+      onload="window.parent.scrollTo(0,0)"
+      allowtransparency="true"
+      allow="geolocation; microphone; camera; fullscreen"
+      src="https://form.jotform.com/251094648903361"
+      frameborder="0"
+      style="min-width:100%;max-width:100%;height:539px;border:none;"
+      scrolling="no"
+    >
+    </iframe>
+    <script src='https://cdn.jotfor.ms/s/umd/latest/for-form-embed-handler.js'></script>
+    <script>window.jotformEmbedHandler("iframe[id='JotFormIFrame-251094648903361']", "https://form.jotform.com/")</script>
+    
