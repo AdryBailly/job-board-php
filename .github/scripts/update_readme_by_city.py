@@ -2,8 +2,8 @@
 ## Les offres classées par ville. (Mise à jour automatique via scripts & workflow)
 
 Full remote = 🏠
-Rerutement actif en cours = 🔥
-Recrutement au profil (Opportunisme) = ✨
+Recrutement actif en cours (Nous avons un contrat) = 🔥
+Recrutement au profil (Nous avons un contrat) = ✨
 
 for ville in sorted(offres_par_ville_stack):
     section += f'\n### {ville}\n'
