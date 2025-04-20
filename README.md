@@ -10,10 +10,10 @@ Mon code de conduite est clair, et je m’y engage sur chaque mission. Transpare
 À très vite dans ta boîte mail !
 — Adrien
 
-<b><u>Légende :</u></b>
-Full remote = 🏠
-Recrutement actif en cours (Nous avons un contrat) = 🔥
-Recrutement au profil (Nous avons un contrat) = ✨
+<b>Légende :</b></br>
+Full remote = 🏠</br>
+Recrutement actif en cours (Nous avons un contrat) = 🔥</br>
+Recrutement au profil (Nous avons un contrat) = ✨</br>
 
 <!-- START:OFFRES_VILLE_STACK -->
 ## Les offres classées par ville.</br>
