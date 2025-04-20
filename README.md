@@ -16,9 +16,9 @@ Mon code de conduite est clair, et je m’y engage sur chaque mission. Transpare
 <!-- START:OFFRES_VILLE_STACK -->
 ## Les offres classées par ville. (Mise à jour automatique via scripts & workflow)
 
-Full remote = 🏠
-Rerutement actif en cours = 🔥
-Recrutement au profil (Opportunisme) = ✨
+🏠 = Full remote
+🔥 = recrutement actif en cours
+✨ = Recrutement au profil (Nous avons un contrat)
 
 ### Lyon
 **Stack principale : Symfony**
