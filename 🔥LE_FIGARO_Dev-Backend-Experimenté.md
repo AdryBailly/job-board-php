@@ -3,17 +3,17 @@
 ## Description du poste
 Le Figaro est l’un des plus importants acteurs français de la presse. Présents dans le top 3 des sites de médias français les plus visités. Les équipes techniques du Figaro sont en charge de plusieurs projets ambitieux avec de forts enjeux de business, d’engagement utilisateur et de performance.
 
-<b>Contexte</b>
+## Contexte
 Vous rejoindrez l’équipe AGORA, une équipe technique dynamique et structurée en plusieurs "squads" spécialisées (Acquisition, Fidélisation, CRM / S.R.E.).
 L’équipe Agora est alignée avec le pilier Business pour la gestion des abonnés sur site Le Figaro.
 
-<b>Roadmap Tech</b>
+## Roadmap Tech
 - Il y a de fortes synergies avec l’équipe Web (Dev Android et iOS) et des gros sujets Data & RGPD
 - Il y a également de forts enjeux autours de GCP, Kubenetes, et utilisation réglementaires autour de la mise en place du Cloud pour la mise en conformité
 - 💓 Les jalons sont ajustés pour ne pas surcharger l’équipe, privilégier la qualité du code, et le bien être des employés
 - La personnalité du candidat peut faire la différence, des personnes calme et posée, humble, idéalement
 
-<b> Avantages </b>
+## Avantages
 - SYNTEC – Forfait jour</br>
 - 9j de RTT</br>
 - 25 jours de CP</br>
