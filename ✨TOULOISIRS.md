@@ -22,7 +22,6 @@ Symfony
 
 
 ## Localisation
-
 Toulouse
 
 ## Comment postuler ?
