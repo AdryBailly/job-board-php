@@ -13,7 +13,7 @@ L’équipe Agora est alignée avec le pilier Business pour la gestion des abonn
 - 💓 Les jalons sont ajustés pour ne pas surcharger l’équipe, privilégier la qualité du code, et le bien être des employés
 - La personnalité du candidat peut faire la différence, des personnes calme et posée, humble, idéalement
 
-##Salaire (estimatif)
+## Salaire (estimatif)
 54 à 60k€
 
 ## Avantages
