@@ -47,4 +47,7 @@ Hybride remote sur Lyon (il faut habiter sur Lyon)
 Lyon
 
 ## Comment postuler ?
-Tout simplement, envoyez-moi un email à adrien@mobiskill.fr avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+Si :  Si tu es déjà un-e candidat-e envoie moi un SMS/WhatsApp :)
+
+Sinon >> Je t'invite à remplir ce formulaire et je m'occupe de répondre ASAP !</br>
+➡️ <b><a href="https://form.jotform.com/251094648903361" target="_blank">POSTULER ICI</a></b>
