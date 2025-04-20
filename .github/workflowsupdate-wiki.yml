@@ -1,0 +1,29 @@
+name: Update Wiki by city
+on:
+  push:
+    paths:
+      - '*.md'
+      - '.github/scripts/update_wiki_by_city.py'
+      - '.github/workflows/update-wiki.yml'
+jobs:
+  update-wiki:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Run update_wiki_by_city.py
+        run: |
+          pip install --upgrade pip
+          python .github/scripts/update_wiki_by_city.py
+      - name: Commit Wiki update
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add ../../wiki/Par-Ville.md
+          git commit -m 'Auto-update Wiki (by city)' || echo 'No changes to commit'
+          git push
