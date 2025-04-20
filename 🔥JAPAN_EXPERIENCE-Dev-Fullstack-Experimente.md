@@ -4,7 +4,7 @@ Dev Symfony Fullstack experimenté
 ## Description du poste
 Vivez l'immersion du Japon avec JAPAN EXPERIENCE !
 
-##Salaire (estimatif)
+## Salaire (estimatif)
 50 à 55k€
 
 ## Avantages
