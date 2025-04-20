@@ -5,7 +5,7 @@ Lead Dev Backend Symgony / Go
 Créée en 2018, UPPLY développe une plateforme SaaS qui ambitionne de devenir le leader de l’intelligence de marché dans le transport et la logistique en Europe.
 Une équipe tech de 20+ personnes travaille en synergie avec les équipes métier, produit et commerciales pour développer des produits innovants et uniques.
 
-<b>Avantages</b>
+## Avantages
 - Stack moderne avec un mix PHP / PostgreSQL et une architecture orientée événements
 - Impact et responsabilités : rôle clé dans une startup en pleine accélération
 - Rémunération jusqu’à 65K
