@@ -44,7 +44,7 @@ Symfony
 Paris
 
 ## Comment postuler ?
-Si :  Si tu es déjà un-e candidat-e envoie moi un SMS/WhatsApp :)
+Si tu es déjà un-e candidat-e envoie moi un SMS/WhatsApp :)
 
 Sinon >> Je t'invite à remplir ce formulaire et je m'occupe de répondre ASAP !</br>
 ➡️ <b><a href="https://form.jotform.com/251094648903361" target="_blank">POSTULER ICI</a></b>
