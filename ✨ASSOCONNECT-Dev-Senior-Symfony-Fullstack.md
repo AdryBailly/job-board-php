@@ -44,5 +44,6 @@ Symfony
 Paris
 
 ## Comment postuler ?
-
-Tout simplement, envoyez-moi un email à adrien@mobiskill.fr avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+(*) Si tu es déjà un-e candidat-e envoie moi un SMS/WhatsApp :)
+ELSE >> Je t'invite à remplir ce formulaire et je m'occupe de répondre ASAP
+<script type="text/javascript" src="https://form.jotform.com/jsform/251094648903361"></script>
