@@ -33,6 +33,7 @@ Sinon >> Je t'invite à remplir ce formulaire et je m'occupe de répondre ASAP !
 - [🔥JAPAN_EXPERIENCE-Dev-Fullstack-Experimente](🔥JAPAN_EXPERIENCE-Dev-Fullstack-Experimente.md)
 - [🔥LE_FIGARO_Dev-Backend-Experimenté](🔥LE_FIGARO_Dev-Backend-Experimenté.md)
 - [✨ASSOCONNECT-Dev-Senior-Symfony-Fullstack](✨ASSOCONNECT-Dev-Senior-Symfony-Fullstack.md)
+- [🏠✨CLICK_AND_BOAT-Dev-Senior-Symfony-Fullstack](🏠✨CLICK_AND_BOAT-Dev-Senior-Symfony-Fullstack.md)
 
 
 <!-- END:OFFRES_VILLE_STACK -->
