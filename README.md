@@ -18,15 +18,12 @@ Sinon >> Je t'invite à remplir ce formulaire et je m'occupe de répondre ASAP !
 🔥 = recrutement actif en cours
 ✨ = Recrutement au profil (Nous avons un contrat)
 
-### Lyon
-**Stack principale : Symfony**
-- [✨DrDATA-Dev-Back-End-Symfony-Senior](✨DrDATA-Dev-Back-End-Symfony-Senior.md)
-
-
-
 ### Paris
 **Stack principale : Laravel ou Symfony**
 - [✨ORNIKAR_Dev_Senior_Backend_Laravel](✨ORNIKAR_Dev_Senior_Backend_Laravel.md)
+
+**Stack principale : Node.js et Symfony**
+- [🔥HOME_EXCHANGE-Senior-Software-Solution-Architect-Node.js-et-PHP](🔥HOME_EXCHANGE-Senior-Software-Solution-Architect-Node.js-et-PHP.md)
 
 **Stack principale : Symfony**
 - [🏠✨UPPLY_Lead-Dev-Backend-Symfony-GO](🏠✨UPPLY_Lead-Dev-Backend-Symfony-GO.md)
