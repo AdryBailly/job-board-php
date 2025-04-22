@@ -45,7 +45,7 @@ back-end).
 
 ## Profil recherché
 - Vous êtes un profil 100% hans-on
-- Vous disposez de 12+ années d’expérience en entreprise
+- Vous disposez de 15+ années d’expérience en entreprise
 - Vous êtes passé par des entreprises Tech First avec des pratiques Tech reconnues, structurée, et appliquant les best practices du marché Tech
 - Vous d’un mindset « Ingénieur » multi-techno, avec une expertise sur l’écosystème Node.js
 - Vous pouvez aisément passer d’une Code Review en Node.js vers du PHP
