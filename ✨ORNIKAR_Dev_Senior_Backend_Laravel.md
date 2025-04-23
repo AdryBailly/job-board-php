@@ -28,7 +28,7 @@ PHP, Laravel, Postgres, SQL, RabbitMQ, Redis, GraphQL (TS), Docker, Kubernetes
 Laravel ou Symfony
 
 ## Remote
-- Sur Paris : 2 jours de télétravail par semaine
+- Sur Paris : 2 à 3 jours de télétravail par semaine
 - En dehors de Paris : 2 jours par mois en présentiel
 ### Autres avantages en remote
 - Une carte de dépenses Spendesk pour assurer vos déplacements et nuits d'hôtels lors de vos séjour au bureau à Paris
