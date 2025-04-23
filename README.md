@@ -26,7 +26,7 @@ Sinon >> Je t'invite à remplir ce formulaire et je m'occupe de répondre ASAP !
 - [🔥HOME_EXCHANGE-Senior-Software-Solution-Architect-Node.js-et-PHP](🔥HOME_EXCHANGE-Senior-Software-Solution-Architect-Node.js-et-PHP.md)
 
 **Stack principale : Symfony**
-- [🏠✨UPPLY_Lead-Dev-Backend-Symfony-GO](🏠✨UPPLY_Lead-Dev-Backend-Symfony-GO.md)
+- [✨UPPLY_Lead-Dev-Backend-Symfony-GO](✨UPPLY_Lead-Dev-Backend-Symfony-GO.md)
 - [🔥JAPAN_EXPERIENCE-Dev-Fullstack-Experimente](🔥JAPAN_EXPERIENCE-Dev-Fullstack-Experimente.md)
 - [🔥LE_FIGARO_Dev-Backend-Experimenté](🔥LE_FIGARO_Dev-Backend-Experimenté.md)
 - [✨ASSOCONNECT-Dev-Senior-Symfony-Fullstack](✨ASSOCONNECT-Dev-Senior-Symfony-Fullstack.md)
