@@ -25,7 +25,7 @@ Aujourd’hui constituée de 250 collaborateurs, leur équipe connaît une crois
 PHP, Laravel, Postgres, SQL, RabbitMQ, Redis, GraphQL (TS), Docker, Kubernetes
 
 ## Stack principale
-Laravel ou Symfony
+PHP ou Laravel ou Symfony
 
 ## Remote
 - Sur Paris : 2 à 3 jours de télétravail par semaine
