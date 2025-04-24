@@ -25,7 +25,7 @@ Sinon >> Je t'invite à remplir ce formulaire et je m'occupe de répondre ASAP !
 **Stack principale : Node.js et Symfony**
 - [🔥HOME_EXCHANGE-Senior-Software-Solution-Architect-Node.js-et-PHP](🔥HOME_EXCHANGE-Senior-Software-Solution-Architect-Node.js-et-PHP.md)
 
-**Stack principale : PRP ou Laravel ou Symfony**
+**Stack principale : PHP ou Laravel ou Symfony**
 - [🔥ANKORSTORE-Senior-Backend-Engineer](🔥ANKORSTORE-Senior-Backend-Engineer.md)
 
 **Stack principale : Symfony**
