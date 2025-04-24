@@ -70,7 +70,7 @@ Capacité à comprendre les exigences commerciales et à les traduire en solutio
 - Outils : Github, CircleCI, Sentry, Notion
 
 ## Stack principale
-PRP ou Laravel ou Symfony
+PHP ou Laravel ou Symfony
 
 ## Remote
 3j de TT / semaine
