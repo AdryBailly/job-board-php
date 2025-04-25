@@ -23,7 +23,6 @@ Sinon >> Je t'invite à remplir ce formulaire et je m'occupe de répondre ASAP !
 - [🔥HOME_EXCHANGE-Senior-Software-Solution-Architect-Node.js-et-PHP](🔥HOME_EXCHANGE-Senior-Software-Solution-Architect-Node.js-et-PHP.md)
 
 **Stack principale : PHP ou Laravel ou Symfony**
-- [🔥ANKORSTORE-Senior-Backend-Engineer](🔥ANKORSTORE-Senior-Backend-Engineer.md)
 - [🏠✨ORNIKAR_Dev_Senior_Backend_Laravel](🏠✨ORNIKAR_Dev_Senior_Backend_Laravel.md)
 
 **Stack principale : Symfony**
