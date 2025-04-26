@@ -19,7 +19,7 @@ Aujourd’hui constituée de 250 collaborateurs, leur équipe connaît une crois
 - Vous maîtrisez PHP et un framework backend comme Laravel ou Symfony
 - Vous maîtrisez le SQL et possèdes des bases de NoSQL
 - Vous êtes familier avec le TDD, passionné·e par le craftsmanship
-- Vous faites preuve d’initiative, d’autonomie, de rigueur et de team sp
+- Vous faites preuve d’initiative, d’autonomie, de rigueur et de team spirit
 
 ## Stack
 PHP, Laravel, Postgres, SQL, RabbitMQ, Redis, GraphQL (TS), Docker, Kubernetes
