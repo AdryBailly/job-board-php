@@ -34,7 +34,7 @@ L’équipe Agora est alignée avec le pilier Business pour la gestion des abonn
 - Compréhension des problématiques des sites à fort trafic.
 
 ## Stack
-Symfony 6x, Elastic Search, RabbitMQ, Redis, API Platform, Docker, Akamùai, Git, CI/CD, PHPUnit, GCP, GKE, Kubernetes, ArgoCD, Jenkins, Kibana, Grafana
+Symfony 6x, Elastic Search, RabbitMQ, Redis, API Platform, Docker, Akamai, Git, CI/CD, PHPUnit, GCP, GKE, Kubernetes, ArgoCD, Jenkins, Kibana, Grafana
 
 ## Stack principale
 Symfony
