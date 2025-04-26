@@ -14,7 +14,7 @@ L’équipe Agora est alignée avec le pilier Business pour la gestion des abonn
 - La personnalité du candidat peut faire la différence, des personnes calme et posée, humble, idéalement !
 
 ## Salaire (estimatif)
-54 à 60k€
+50 à 60k€
 
 ## Avantages
 - SYNTEC – Forfait jour</br>
