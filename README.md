@@ -22,12 +22,8 @@ Sinon >> Je t'invite à remplir ce formulaire et je m'occupe de répondre ASAP !
 **Stack principale : Node.js et Symfony**
 - [🔥HOME_EXCHANGE-Senior-Software-Solution-Architect-Node.js-et-PHP](🔥HOME_EXCHANGE-Senior-Software-Solution-Architect-Node.js-et-PHP.md)
 
-**Stack principale : PHP ou Laravel ou Symfony**
-- [🏠✨ORNIKAR_Dev_Senior_Backend_Laravel](🏠✨ORNIKAR_Dev_Senior_Backend_Laravel.md)
-
 **Stack principale : Symfony**
 - [🔥ASSOCONNECT-Lead-Dev-Symfony-Fullstack](🔥ASSOCONNECT-Lead-Dev-Symfony-Fullstack.md)
-- [🏠✨CLICK_AND_BOAT-Dev-Senior-Symfony-Fullstack](🏠✨CLICK_AND_BOAT-Dev-Senior-Symfony-Fullstack.md)
 
 
 <!-- END:OFFRES_VILLE_STACK -->
