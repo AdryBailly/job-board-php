@@ -82,8 +82,8 @@ PHP, Symfony et de briques IA Agentiques
 Symfony
 
 ## Remote
-Full remote Europe (Working in French time hours)
-Habiter en France est un bonus
+Full remote Europe (Working in French time hours) </br>
+Habiter en France est un bonus</br>
 Localisation : 54 rue de Londres, 75008 Paris
 
 ## Expérience
