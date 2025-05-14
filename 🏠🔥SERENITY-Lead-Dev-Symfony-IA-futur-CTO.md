@@ -25,7 +25,7 @@ Une culture d’entreprise basée sur la <b>bienveillance, le dynamisme et l’i
 Ambiance projet Early Stage, tout est à construire, tout est possible !
 
 ## L'équipe
-2 Cofounder + 1  Operating Partner Tech + 1 CTPO (en cours de recrutement)
+2 Cofounder + 1  Operating Partner Tech + 1 CPO (en cours de recrutement)
 
 ## Salaire
  60 – 65k€ (négociable selon le profil)
