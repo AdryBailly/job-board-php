@@ -24,7 +24,6 @@ Sinon >> Je t'invite à remplir ce formulaire et je m'occupe de répondre ASAP !
 
 **Stack principale : Symfony**
 - [🔥ASSOCONNECT-Lead-Dev-Symfony-Fullstack](🔥ASSOCONNECT-Lead-Dev-Symfony-Fullstack.md)
-- [🏠🔥SERENITY-Lead-Dev-Symfony-IA-futur-CTO](🏠🔥SERENITY-Lead-Dev-Symfony-IA-futur-CTO.md)
 
 
 <!-- END:OFFRES_VILLE_STACK -->
