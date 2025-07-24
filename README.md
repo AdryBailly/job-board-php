@@ -19,9 +19,6 @@ Sinon >> Je t'invite à remplir ce formulaire et je m'occupe de répondre ASAP !
 ✨ = Recrutement au profil (Nous avons un contrat)
 
 ### Paris
-**Stack principale : Node.js et Symfony**
-- [🔥HOME_EXCHANGE-Senior-Software-Solution-Architect-Node.js-et-PHP](🔥HOME_EXCHANGE-Senior-Software-Solution-Architect-Node.js-et-PHP.md)
-
 **Stack principale : Symfony**
 - [🔥ASSOCONNECT-Lead-Dev-Symfony-Fullstack](🔥ASSOCONNECT-Lead-Dev-Symfony-Fullstack.md)
 
